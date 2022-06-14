@@ -1,0 +1,35 @@
+﻿Identifiant PRM;Type de donnees;Date de debut;Date de fin;Grandeur physique;Grandeur metier;Etape metier;Unite
+00000000000000;Index;12/04/2021;18/04/2021;Energie active;Consommation;Comptage Brut;Wh
+Horodate;Type de releve;EAS F1;EAS F2;EAS F3;EAS F4;EAS F5;EAS F6;EAS F7;EAS F8;EAS F9;EAS F10;EAS D1;EAS D2;EAS D3;EAS D4;EAS T
+2021-04-01T01:00:00+02:00;Arrêté quotidien;11538434;12944147;3668104;;;;;;;;19416294;2543931;2686684;3503776;28150685
+2021-04-02T01:00:00+02:00;Arrêté quotidien;11543332;12948970;3668104;;;;;;;;19421192;2548754;2686684;3503776;28160406
+2021-04-03T01:00:00+02:00;Arrêté quotidien;11550420;12954810;3668104;;;;;;;;19428280;2554594;2686684;3503776;28173334
+2021-04-04T01:00:00+02:00;Arrêté quotidien;11550420;12954810;3683924;;;;;;;;19432440;2566254;2686684;3503776;28189154
+2021-04-05T01:00:00+02:00;Arrêté quotidien;11550420;12954810;3700863;;;;;;;;19437599;2578034;2686684;3503776;28206093
+2021-04-06T01:00:00+02:00;Arrêté quotidien;11550420;12954810;3715235;;;;;;;;19442362;2587643;2686684;3503776;28220465
+2021-04-07T01:00:00+02:00;Arrêté quotidien;11558166;12962724;3715235;;;;;;;;19450108;2595557;2686684;3503776;28236125
+2021-04-08T01:00:00+02:00;Arrêté quotidien;11567763;12973381;3715235;;;;;;;;19459705;2606214;2686684;3503776;28256379
+2021-04-09T01:00:00+02:00;Arrêté quotidien;11576991;12983585;3715235;;;;;;;;19468933;2616418;2686684;3503776;28275811
+2021-04-10T01:00:00+02:00;Arrêté quotidien;11586225;12989519;3715235;;;;;;;;19478167;2622352;2686684;3503776;28290979
+2021-04-11T01:00:00+02:00;Arrêté quotidien;11586225;12989519;3731009;;;;;;;;19482783;2633510;2686684;3503776;28306753
+2021-04-12T01:00:00+02:00;Arrêté quotidien;11586225;12989519;3747956;;;;;;;;19489283;2643957;2686684;3503776;28323700
+2021-04-13T01:00:00+02:00;Arrêté quotidien;11593544;12997583;3747956;;;;;;;;19496602;2652021;2686684;3503776;28339083
+2021-04-14T01:00:00+02:00;Arrêté quotidien;11604528;13007183;3747956;;;;;;;;19507586;2661621;2686684;3503776;28359667
+2021-04-15T01:00:00+02:00;Arrêté quotidien;11613655;13013761;3747956;;;;;;;;19516713;2668199;2686684;3503776;28375372
+2021-04-16T01:00:00+02:00;Arrêté quotidien;11624750;13021126;3747956;;;;;;;;19527808;2675564;2686684;3503776;28393832
+2021-04-17T01:00:00+02:00;Arrêté quotidien;11634341;13029891;3747956;;;;;;;;19537399;2684329;2686684;3503776;28412188
+2021-04-18T01:00:00+02:00;Arrêté quotidien;11634341;13029891;3762392;;;;;;;;19542086;2694078;2686684;3503776;28426624
+2021-04-19T01:00:00+02:00;Arrêté quotidien;11634341;13029891;3776699;;;;;;;;19546164;2704307;2686684;3503776;28440931
+2021-04-20T01:00:00+02:00;Arrêté quotidien;11640373;13035711;3776699;;;;;;;;19552196;2710127;2686684;3503776;28452783
+2021-04-21T01:00:00+02:00;Arrêté quotidien;11647286;13042412;3776699;;;;;;;;19559109;2716828;2686684;3503776;28466397
+2021-04-22T01:00:00+02:00;Arrêté quotidien;11655820;13046986;3776699;;;;;;;;19567643;2721402;2686684;3503776;28479505
+2021-04-23T01:00:00+02:00;Arrêté quotidien;11662898;13051232;3776699;;;;;;;;19574721;2725648;2686684;3503776;28490829
+2021-04-24T01:00:00+02:00;Arrêté quotidien;11669400;13056045;3776699;;;;;;;;19581223;2730461;2686684;3503776;28502144
+2021-04-25T01:00:00+02:00;Arrêté quotidien;11669400;13056045;3793588;;;;;;;;19587526;2741047;2686684;3503776;28519033
+2021-04-26T01:00:00+02:00;Arrêté quotidien;11669400;13056045;3804217;;;;;;;;19590681;2748521;2686684;3503776;28529662
+2021-04-27T01:00:00+02:00;Arrêté quotidien;11674522;13061758;3804217;;;;;;;;19595803;2754234;2686684;3503776;28540497
+2021-04-28T01:00:00+02:00;Arrêté quotidien;11681753;13066796;3804217;;;;;;;;19603034;2759272;2686684;3503776;28552766
+2021-04-29T01:00:00+02:00;Arrêté quotidien;11687905;13071763;3804217;;;;;;;;19609186;2764239;2686684;3503776;28563885
+2021-04-30T01:00:00+02:00;Arrêté quotidien;11697271;13077082;3804217;;;;;;;;19618552;2769558;2686684;3503776;28578570
+Periode;Identifiant calendrier fournisseur;Libelle calendrier fournisseur;Identifiant classe temporelle 1;Libelle classe temporelle 1;Cadran classe temporelle 1;Identifiant classe temporelle 2;Libelle classe temporelle 2;Cadran classe temporelle 2;Identifiant classe temporelle 3;Libelle classe temporelle 3;Cadran classe temporelle 3;Identifiant classe temporelle 4;Libelle classe temporelle 4;Cadran classe temporelle 4;Identifiant classe temporelle 5;Libelle classe temporelle 5;Cadran classe temporelle 5;Identifiant classe temporelle 6;Libelle classe temporelle 6;Cadran classe temporelle 6;Identifiant classe temporelle 7;Libelle classe temporelle 7;Cadran classe temporelle 7;Identifiant classe temporelle 8;Libelle classe temporelle 8;Cadran classe temporelle 8;Identifiant classe temporelle 9;Libelle classe temporelle 9;Cadran classe temporelle 9;Identifiant classe temporelle 10;Libelle classe temporelle 10;Cadran classe temporelle 10;Identifiant calendrier distributeur;Libelle calendrier distributeur;Identifiant classe temporelle distributeur 1;Libelle classe temporelle distributeur 1;Cadran classe temporelle distributeur 1;Identifiant classe temporelle distributeur 2;Libelle classe temporelle distributeur 2;Cadran classe temporelle distributeur 2;Identifiant classe temporelle distributeur 3;Libelle classe temporelle distributeur 3;Cadran classe temporelle distributeur 3;Identifiant classe temporelle distributeur 4;Libelle classe temporelle distributeur 4;Cadran classe temporelle distributeur 4
+Du 2021-04-12T00:00:00+01:00 au;AA000000;Option Heures Creuses + Week-End;HC;Heures Creuses;EAS F1;HP;Heures Pleines;EAS F2;WE;Heures Week-end;EAS F3;;;EAS F4;;;EAS F5;;;EAS F6;;;EAS F7;;;EAS F8;;;EAS F9;;;EAS F10;DI000003;Avec diffÃ©renciation temporelle et saisonniÃ¤re;HCB;Heures Creuses Saison Basse;EAS D1;HPB;Heures Pleines Saison Basse;EAS D2;HCH;Heures Creuses Hiver / Saison Haute;EAS D3;HPH;Heures Pleines Hiver / Saison Haute;EAS D4
